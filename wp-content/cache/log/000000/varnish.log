@@ -1,0 +1,16 @@
+[Thu, 08 Dec 2016 09:06:29 +0000] [http://www.evocrm.co.uk/.*] Connecting to  ...
+[Thu, 08 Dec 2016 09:06:29 +0000] [http://www.evocrm.co.uk/.*] PURGE /.* HTTP/1.1
+[Thu, 08 Dec 2016 09:06:29 +0000] [http://www.evocrm.co.uk/.*] Host: www.evocrm.co.uk
+[Thu, 08 Dec 2016 09:06:29 +0000] [http://www.evocrm.co.uk/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Thu, 08 Dec 2016 09:07:37 +0000] [http://www.evocrm.co.uk/.*] Connecting to  ...
+[Thu, 08 Dec 2016 09:07:37 +0000] [http://www.evocrm.co.uk/.*] PURGE /.* HTTP/1.1
+[Thu, 08 Dec 2016 09:07:37 +0000] [http://www.evocrm.co.uk/.*] Host: www.evocrm.co.uk
+[Thu, 08 Dec 2016 09:07:37 +0000] [http://www.evocrm.co.uk/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Thu, 08 Dec 2016 09:08:23 +0000] [http://www.evocrm.co.uk/.*] Connecting to  ...
+[Thu, 08 Dec 2016 09:08:23 +0000] [http://www.evocrm.co.uk/.*] PURGE /.* HTTP/1.1
+[Thu, 08 Dec 2016 09:08:23 +0000] [http://www.evocrm.co.uk/.*] Host: www.evocrm.co.uk
+[Thu, 08 Dec 2016 09:08:23 +0000] [http://www.evocrm.co.uk/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Thu, 08 Dec 2016 09:11:07 +0000] [http://www.evocrm.co.uk/.*] Connecting to  ...
+[Thu, 08 Dec 2016 09:11:07 +0000] [http://www.evocrm.co.uk/.*] PURGE /.* HTTP/1.1
+[Thu, 08 Dec 2016 09:11:07 +0000] [http://www.evocrm.co.uk/.*] Host: www.evocrm.co.uk
+[Thu, 08 Dec 2016 09:11:07 +0000] [http://www.evocrm.co.uk/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
